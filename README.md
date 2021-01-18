@@ -7,12 +7,12 @@ Description:  Python Panda script for analyzing school & student records.
 There are 2 challenges:  HeroespfPyMoli & PyCitySchools.  
 The Python Pandas code only addresses the PyCithySchools challenge.
 
-## PyBank
-The PyCitySchools Python Panda script processes 2 csv files: student & schools.
+## PyCitySchools
+The PyCitySchools Python Panda script processes 2 csv files: students & schools.
  * uses data frames, calculations, average function & data formatting
 
 Input: 
-CSV files
+CSV files: students & schools
 
 Process:
 The PyCitySchools Python Panda script analyzes the school & student data and does the followwing calculations:
